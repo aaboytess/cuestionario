@@ -1,11 +1,16 @@
 1 En tus palabras, ¿Qué es internet?
 una plataforma donde existe informacion publica.
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+guiados y no guiados
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras.
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+por medio de ondas que transmiten t}informacion 
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
 hace referencia al lenguaje marcado para hacer paginas web y el http hace transferencia de hypertextos.
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+La encriptación o cifrado es un mecanismo de seguridad que permite modificar un mensaje de modo que su contenido sea ilegible, salvo para su destinatario
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+cifrando nuestra informacion 
 8 ¿Cómo funciona la búsqueda de google?
 con un motor de busqueda 
